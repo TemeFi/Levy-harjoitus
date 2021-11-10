@@ -1,0 +1,6 @@
+C:\Users\Teme\Desktop\Levyt\Levyt\bin\Debug\Levyt.exe.config
+C:\Users\Teme\Desktop\Levyt\Levyt\bin\Debug\Levyt.exe
+C:\Users\Teme\Desktop\Levyt\Levyt\bin\Debug\Levyt.pdb
+C:\Users\Teme\Desktop\Levyt\Levyt\obj\Debug\Levyt.csprojResolveAssemblyReference.cache
+C:\Users\Teme\Desktop\Levyt\Levyt\obj\Debug\Levyt.exe
+C:\Users\Teme\Desktop\Levyt\Levyt\obj\Debug\Levyt.pdb
